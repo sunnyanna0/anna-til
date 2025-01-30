@@ -1,4 +1,6 @@
-# TIL(Today I Learned)
+# ✨ WELCOME TO MY TIL ✨
+
+## Today I Learned...
 
 ### [4월 첫째주, 1주차] : html, css
 
