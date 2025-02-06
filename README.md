@@ -4,6 +4,8 @@
 
 ### [2월 첫째주, 2주차] : github, web
 
+25.02.06 🚀 깔끔한 해결책을 찾은 하루 ([2/3](https://github.com/sunnyanna0/anna-til/blob/main/2.%20february/2025-02-06.md))
+
 25.02.03 github ([2/3](https://github.com/100-hours-a-week/anna-til/blob/main/2.%20february/2025-02-03.md))
 
 25.01.31 web ([1/31](https://github.com/100-hours-a-week/anna-til/blob/main/1.%20january/2025-01-31.md))
