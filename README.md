@@ -4,6 +4,9 @@
 
 ### [2월 첫째주, 2주차] : github, web
 
+25.02.07 🌐 DeepDive - HTTP 통신과 JSON 데이터 활용
+ ([보러가기](https://github.com/sunnyanna0/anna-til/blob/main/2.%20february/2025-02-07.md))
+
 25.02.06 🚀 깔끔한 해결책을 찾은 하루 ([보러가기](https://github.com/sunnyanna0/anna-til/blob/main/2.%20february/2025-02-06.md))
 
 25.02.03 github ([보러가기](https://github.com/100-hours-a-week/anna-til/blob/main/2.%20february/2025-02-03.md))
