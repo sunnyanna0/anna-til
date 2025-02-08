@@ -4,6 +4,9 @@
 
 ### [2월 첫째주, 2주차] : github, web
 
+25.02.08 ♾️ 2주차 과제 & 벡터 공간 학습
+ ([보러가기](https://github.com/sunnyanna0/anna-til/blob/main/2.%20february/2025-02-08.md))
+
 25.02.07 🌐 DeepDive - HTTP 통신과 JSON 데이터 활용
  ([보러가기](https://github.com/sunnyanna0/anna-til/blob/main/2.%20february/2025-02-07.md))
 
