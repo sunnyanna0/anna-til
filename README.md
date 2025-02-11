@@ -4,6 +4,9 @@
 
 ### [2월 3째주, 3주차] : 시각화
 
+25.02.11 📉 데이터 처리 및 시각화 과제 회고
+ ([보러가기](https://github.com/sunnyanna0/anna-til/blob/main/2.%20february/2025-02-11.md))
+
 25.02.10 📊 데이터 시각화
  ([보러가기](https://github.com/sunnyanna0/anna-til/blob/main/2.%20february/2025-02-10.md))
 
