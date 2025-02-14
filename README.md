@@ -4,6 +4,10 @@
 
 ### [2월 3째주, 3주차] : 시각화
 
+25.02.14 🧴 딥다이브 - SciPy를 활용한 기본 통계 분석  
+ ([보러가기](https://github.com/sunnyanna0/anna-til/blob/main/2.%20february/2025-02-14.md))
+
+
 25.02.12 📊 SciPy 보충심화
  ([보러가기](https://github.com/sunnyanna0/anna-til/blob/main/2.%20february/2025-02-12.md))
 
