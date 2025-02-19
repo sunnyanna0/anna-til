@@ -2,14 +2,16 @@
 
 ## Today I Learned...
 
-### [2월 3째주, 3주차] : 시각화
+### [2월 4째주, 4주차] : 머신러닝
 
-25.02.18 💻 머신러닝 개념 학습 & 맥북 개발환경 세팅 
- ([보러가기](https://github.com/sunnyanna0/anna-til/blob/main/2.%20february/2025-02-18.md))
+25.02.18 📚 머신러닝 개념 학습 & 실습 정리
+ ([보러가기](https://github.com/sunnyanna0/anna-til/blob/main/2.%20february/2025-02-19.md))
+
+
+### [2월 3째주, 3주차] : 데이터 시각화
 
 25.02.14 🧴 딥다이브 - SciPy를 활용한 기본 통계 분석  
  ([보러가기](https://github.com/sunnyanna0/anna-til/blob/main/2.%20february/2025-02-14.md))
-
 
 25.02.12 📊 SciPy 보충심화
  ([보러가기](https://github.com/sunnyanna0/anna-til/blob/main/2.%20february/2025-02-12.md))
