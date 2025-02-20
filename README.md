@@ -3,6 +3,9 @@
 ## Today I Learned...
 
 ### [2월 4째주, 4주차] : 머신러닝
+25.02.20 🔓 4주차 과제 & API 수업
+ ([보러가기](https://github.com/sunnyanna0/anna-til/blob/main/2.%20february/2025-02-20.md))
+
 
 25.02.19 📚 머신러닝 개념 학습 & 실습 정리
  ([보러가기](https://github.com/sunnyanna0/anna-til/blob/main/2.%20february/2025-02-19.md))
