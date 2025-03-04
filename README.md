@@ -2,7 +2,7 @@
 
 ## Today I Learned...
 
-### [3월] : 머신러닝
+### [3월] : CNN
 25.03.04 🔍 사전 훈련 모델 활용 - 한줄정리
  ([보러가기](https://github.com/sunnyanna0/anna-til/blob/main/3.%20march/2025-03-04.md))
 
