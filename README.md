@@ -3,6 +3,8 @@
 ## Today I Learned...
 
 ### [3월] : CNN
+25.03.11 🔍 LangChain 개념 정리 & 네트워킹데이 코테 2번 복습  
+ ([보러가기](https://github.com/sunnyanna0/anna-til/blob/main/3.%20march/2025-03-11.md))
 
 25.03.08 🍺 네트워킹 데이 & Streamlit 실습
  ([보러가기](https://github.com/sunnyanna0/anna-til/blob/main/3.%20march/2025-03-08.md))
