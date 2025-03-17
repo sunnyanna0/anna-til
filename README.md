@@ -3,6 +3,9 @@
 ## Today I Learned...
 
 ### [3월] : CNN
+25.03.17 🍜 휴가 & 7주차 과제 완료 & 데이터베이스
+ ([보러가기](https://github.com/sunnyanna0/anna-til/blob/main/3.%20march/2025-03-17.md))
+
 25.03.11 🔍 LangChain 개념 정리 & 네트워킹데이 코테 2번 복습  
  ([보러가기](https://github.com/sunnyanna0/anna-til/blob/main/3.%20march/2025-03-11.md))
 
